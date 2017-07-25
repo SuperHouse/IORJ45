@@ -1,15 +1,15 @@
 I/O Breakout To RJ45
 ====================
-Copyright 2014 SuperHouse Pty Ltd  
+Copyright 2017 SuperHouse Pty Ltd  
 SuperHouse site:  <www.superhouse.tv>  
 
-Breaks out a pair of 2x5 pin headers to 4 x RJ45 sockets.
+Breaks out a pair of 2x6 pin headers to 4 x RJ45 sockets.
 
 Features:
 
- * 2 x 2x5 pin headers
+ * 2 x 2x6 pin headers
  * 4 x RJ45 sockets
- * Each RJ45 socket provides 4 x data lines, 2 x GND, 2 x VCC
+ * Each RJ45 socket provides 4 x data lines, GND, VIN, IOREF, and RESET
  * 1k resistor in series with each data line
 
 
